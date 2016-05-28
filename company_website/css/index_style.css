@@ -1,0 +1,188 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	height: 100%;
+	width: 100%;
+	 position: absolute;
+	 background-color: #000;
+}
+.bg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+.navigation
+{
+	padding-left: 50px;
+	margin: 0px;
+	background:	;
+	position: fixed;
+	bottom: 0px;
+	z-index: 999;
+	width: 100%;
+
+
+}	
+.navigation>li
+{
+	display: inline-block;
+	padding: 15px 15px;
+	font-weight: bold;
+}
+.navigation>li>a
+{
+	color :#e1e1e1;
+	text-decoration: none;
+}
+.navigation>li>a:hover
+{
+	color:#efd;
+			
+}
+.active
+{
+	
+
+
+	background-color: #aaa;
+	text-decoration: none;
+    color:#fff;
+
+-webkit-transition: background 0.5s linear;
+        -moz-transition: background 0.5s linear;
+        -ms-transition: background 0.5s linear;
+        -o-transition: background 0.5s linear;
+        transition: background 0.5s linear;
+}
+.slide
+{
+	background-attachment: fixed;
+	width: 100%;
+	height: 100%;
+	position:relative;
+	
+}
+#slide1
+{
+	
+	background-color: #000;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size: cover;
+	z-index: 9;
+	
+}
+.paralogram
+{
+	 -webkit-transform: rotate(10deg) skew(75deg);
+       -moz-transform: rotate(10deg) skew(75deg);
+         -o-transform: rotate(10deg) skew(75deg);
+        margin-top: 170px;
+        
+        height:50px;
+        width:130px; 
+        background-color:#f5f5f5;
+        position:absolute;
+        right:130px;
+        z-index:-1;
+    
+}
+.paralogram_container
+{
+	height:170px; 
+	width:250px;
+	background-color:#f5f5f5;
+	float:right;
+	border-radius:15px;
+	margin-top:100px;
+	color:#000;
+	padding:20px;
+	font-size: 14px;
+}
+
+
+.slide2
+{
+	background-color: #fff;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size: cover;
+	z-index: 9;
+	
+}
+.slide3
+{
+	background-image: url(../image/aboutus.jpg);
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size: cover;
+	z-index: 9;
+	
+}
+.slide4
+{
+	background-image: url(../image/contact.jpg);
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size: cover;
+	z-index: 9;
+	
+}
+
+.second_page
+{
+	padding-left: 50px;
+	margin-left: 0px;
+	background:#fff;
+	position: fixed;
+	bottom: 0px;
+	z-index: 999;
+	width: 100%;
+		-webkit-transition: background 1s linear;
+        -moz-transition: background 1s linear;
+        -ms-transition: background 1s linear;
+        -o-transition: background 1s linear;
+        transition: background 1s linear;
+
+}
+.second_page_back
+{
+	padding-left: 50px;
+	margin-left: 0px;
+	background:rbga(255,255,255,0);
+	position: fixed;
+	bottom: 0px;
+	z-index: 999;
+	width: 100%;
+		-webkit-transition: background 0.5s linear;
+        -moz-transition: background 0.5s linear;
+        -ms-transition: background 0.5s linear;
+        -o-transition: background 0.5s linear;
+        transition: background 0.5s linear;
+
+}
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}	
+
+
+.bg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+
+
+.ibg-bg {
+  position: absolute;
+}

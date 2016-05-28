@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Basic jQuery Accordion</title>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.4/themes/trontastic/jquery-ui.css" />
+    <script type="text/javascript">
+          $(document).ready(
+            function () {
+                $(".accordion").accordion({ 
+					active: 0,
+					header: ".MainAcc",
+                    autoheight: false,
+                    alwaysOpen: true,
+                    fillspace: false,
+                    collapsible: true,
+					animate:{duration:1000,easing:"easeOutBounce"},
+					event:"click",
+					heightStyle:"content",
+					icons:{"header":"ui-icon-pin-w","activeHeader":"ui-icon-pin-s"}
+					
+                    //heightStyle: content   //auto, fill, content
+                });
+				
+				$(".innerdiv").accordion({ 
+					active: 0,
+					header: "h4",          
+                    autoheight: false,
+                    alwaysOpen: false,
+                    fillspace: false,
+                    collapsible: true,
+					animate:{duration:1000,easing:"easeOutBounce"},
+					event:"click",
+					heightStyle:"content",
+					icons:{"header":"ui-icon-pin-w","activeHeader":"ui-icon-pin-s"}
+					
+                    //heightStyle: content   //auto, fill, content
+                });
+            });
+    </script>
+</head>
+<body>
+    <!-- begin html for accordion -->
+    <div style="width:100%;">
+        <div class="accordion">
+            <div class="MainAcc">
+                <a href="#">ASP.NET</a>
+            </div>
+                <div class="innerdiv">
+                    <h4>jaspal</h4>
+                    <div>hi this is inner accordian</div>                
+                    <h4>ASP</h4>
+                    <p><a href="http://www.surfingsuccess.com/tag/asp/">ASP stuff</a></p>
+                </div>            
+            <div class="MainAcc">
+            Java
+            </div>
+                <div class="innerdiv">
+                    <h4>jaspal</h4>
+                    <div>hi this is inner accordian</div>                
+                    <h4>ASP</h4>
+                    <p>ASP stuff</p>
+                </div>
+        </div>
+    </div>
+    <!--</div>-->
+    <!-- end html for accordion -->
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+<!--	<link href="../css/jquery.ime.css" rel="stylesheet" />   -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" ></script>
+	<script src="../libs/rangy/rangy-core.js"></script>
+	<script src="../src/jquery.ime.js"></script>
+	<script src="../src/jquery.ime.selector.js"></script>
+	<script src="../src/jquery.ime.preferences.js"></script>
+	<script src="../src/jquery.ime.inputmethods.js"></script>
+	<script src="script.js"></script>
+    <script>
+		function check_value(val)
+		{
+			alert("selected language is : "+val);
+		}		
+	</script>
+</head>
+
+<body>
+<form action="test.php" method="post">
+					<select id="language" onChange="check_value(this.value)" name="language">
+					</select>
+					<select id="imeSelector" onChange="check_value(this.value)"></select>
+
+		<textarea id="ced" name="ced"></textarea>
+            <input type="submit">
+</form>
+</body>
+</html>

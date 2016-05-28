@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Question_Database>
+  <Question language="en" CategoryId="5" BankName="IBPS" Year="2011">
+    <Question_Text Image="uploadedImages/question_6_1402916191img.jpg">select the correct related image from the options below .</Question_Text>
+    <Option total_options="5">
+      <Option_1 Image="uploadedImages/Option_1_1_1402916191img.jpg"> </Option_1>
+      <Option_2 Image="uploadedImages/Option_1_2_1402916191img.jpg"> </Option_2>
+      <Option_3 Image="uploadedImages/Option_1_3_1402916191img.jpg"> </Option_3>
+      <Option_4 Image="uploadedImages/Option_1_4_1402916191img.jpg"> </Option_4>
+      <Option_5 Image="uploadedImages/Option_1_5_1402916191img.jpg"> </Option_5>
+    </Option>
+    <Answer Option_number="3"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5" BankName="IBPS" Year="2011">
+    <Question_Text>Who is the prime minister of india</Question_Text>
+    <Option total_options="4">
+      <Option_1>Vikas sharma</Option_1>
+      <Option_2>jaspal</Option_2>
+      <Option_3>animesh</Option_3>
+      <Option_4>narendra Modi</Option_4>
+    </Option>
+    <Answer Option_number="4"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Who is the president of india</Question_Text>
+    <Option total_options="5">
+      <Option_1>Animesh Shaw</Option_1>
+      <Option_2>Vikas Sharma</Option_2>
+      <Option_3>Arun </Option_3>
+      <Option_4>Jaspal Singh</Option_4>
+      <Option_5>Pranab Mukherjee</Option_5>
+    </Option>
+    <Answer Option_number="5"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Who is web designer?</Question_Text>
+    <Option total_options="4">
+      <Option_1>Vikas Sharma</Option_1>
+      <Option_2>jaspal</Option_2>
+      <Option_3>animesh</Option_3>
+      <Option_4>arun</Option_4>
+    </Option>
+    <Answer Option_number="1"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Grand Central Terminal, Park Avenue, New York is the world's</Question_Text>
+    <Option total_options="4">
+      <Option_1>largest railway station</Option_1>
+      <Option_2>highest railway station</Option_2>
+      <Option_3>longest railway station</Option_3>
+      <Option_4>None of the above</Option_4>
+    </Option>
+    <Answer Option_number="1"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Entomology is the science that studies</Question_Text>
+    <Option total_options="4">
+      <Option_1>Behavior of human beings</Option_1>
+      <Option_2>Insects</Option_2>
+      <Option_3>The origin and history of technical and scientific terms</Option_3>
+      <Option_4>The formation of rocks</Option_4>
+    </Option>
+    <Answer Option_number="2"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Garampani sanctuary is located at</Question_Text>
+    <Option total_options="4">
+      <Option_1>Junagarh, Gujarat</Option_1>
+      <Option_2>Diphu, Assam</Option_2>
+      <Option_3>Kohima, Nagaland</Option_3>
+      <Option_4>Gangtok, Sikkim</Option_4>
+    </Option>
+    <Answer Option_number="2"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Hitler party which came into power in 1933 is known as</Question_Text>
+    <Option total_options="4">
+      <Option_1>Labour Party</Option_1>
+      <Option_2>Nazi Party</Option_2>
+      <Option_3>Ku-Klux-Klan</Option_3>
+      <Option_4>Democratic Party</Option_4>
+    </Option>
+    <Answer Option_number="2"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>FFC stands for</Question_Text>
+    <Option total_options="4">
+      <Option_1>Foreign Finance Corporation</Option_1>
+      <Option_2>Film Finance Corporation</Option_2>
+      <Option_3>Federation of Football Council</Option_3>
+      <Option_4>None of the above</Option_4>
+    </Option>
+    <Answer Option_number="2"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Fastest shorthand writer was</Question_Text>
+    <Option total_options="4">
+      <Option_1>Dr. G. D. Bist</Option_1>
+      <Option_2>J.R.D. Tata</Option_2>
+      <Option_3>J.M. Tagore</Option_3>
+      <Option_4>Khudada Khan</Option_4>
+    </Option>
+    <Answer Option_number="1"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Epsom (England) is the place associated with</Question_Text>
+    <Option total_options="4">
+      <Option_1>Horse racing</Option_1>
+      <Option_2>Polo</Option_2>
+      <Option_3>Shooting</Option_3>
+      <Option_4>Snooker</Option_4>
+    </Option>
+    <Answer Option_number="1"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>First human heart transplant operation conducted by Dr. Christian Bernard on Louis Washkansky, was conducted in</Question_Text>
+    <Option total_options="4">
+      <Option_1>1967</Option_1>
+      <Option_2>1968</Option_2>
+      <Option_3>1958</Option_3>
+      <Option_4>1922</Option_4>
+    </Option>
+    <Answer Option_number="1">Louis Washkansky (1913 - 21 December 1967) was the recipient of the world's first human heart transplant.&#13;
+&#13;
+Washkansky died of double pneumonia eighteen days after the transplant because of a weakened immune system.</Answer>
+  </Question>
+  <Question language="hi" CategoryId="5">
+    <Question_Text>क्या में हिन्दि में लिख सकता हुँ ?</Question_Text>
+    <Option total_options="4">
+      <Option_1>शायद्</Option_1>
+      <Option_2>हाँ</Option_2>
+      <Option_3>नहिँ</Option_3>
+      <Option_4>कभी नहीँ</Option_4>
+    </Option>
+    <Answer Option_number="2"> </Answer>
+  </Question>
+  <Question language="hi" CategoryId="5">
+    <Question_Text>राष्ट्रध्वज की लंबाई और चौड़ाई का अनुपात क्या है?</Question_Text>
+    <Option total_options="4">
+      <Option_1>2:1</Option_1>
+      <Option_2>3:2</Option_2>
+      <Option_3>4:3</Option_3>
+      <Option_4>5:4</Option_4>
+    </Option>
+    <Answer Option_number="2"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>DVD का पूरा नाम क्या है?</Question_Text>
+    <Option total_options="4">
+      <Option_1>डिमांड व्हीडियो डिस्क (Demand Video Disc)</Option_1>
+      <Option_2>डिजिटल व्होलेटिक डिस्क (Digital Volatile Disc)</Option_2>
+      <Option_3>डिजिटल व्हायेबल डिस्क (Digitally Viable Disc)</Option_3>
+      <Option_4>डिजिटल व्हर्सटाइल डिस्क (Digital Versatile Disc)</Option_4>
+    </Option>
+    <Answer Option_number="4"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="4">
+    <Question_Text>UNIVAC is</Question_Text>
+    <Option total_options="4">
+      <Option_1>Universal Automatic Computer</Option_1>
+      <Option_2>Universal Array Computer</Option_2>
+      <Option_3>Unique Automatic Computer</Option_3>
+      <Option_4>Unvalued Automatic Computer</Option_4>
+    </Option>
+    <Answer Option_number="1">There are no computers with the name as in other options. UNIVAC was the first general purpose electronic digital computer designed for commercial use, produced by Universal Accounting Company of John Mauchly and J.P.Eckert in 1951.</Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Arya Samaj was started by</Question_Text>
+    <Option total_options="4">
+      <Option_1>Swami Vivekananda</Option_1>
+      <Option_2>Raja Ram Mohan Roy</Option_2>
+      <Option_3>Swami Dayanand Saraswati</Option_3>
+      <Option_4>Gopal Krishna Gokhale</Option_4>
+    </Option>
+    <Answer Option_number="3"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>When a gas is turned into a liquid, the process is called</Question_Text>
+    <Option total_options="4">
+      <Option_1>condensation</Option_1>
+      <Option_2>evaporation</Option_2>
+      <Option_3>deposition</Option_3>
+      <Option_4>sublimation</Option_4>
+    </Option>
+    <Answer Option_number="1"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text> Which of the following parts of the sun is easily visible only during a total solar eclipse?</Question_Text>
+    <Option total_options="4">
+      <Option_1>core</Option_1>
+      <Option_2>photosphere</Option_2>
+      <Option_3>sunspots</Option_3>
+      <Option_4>corona</Option_4>
+    </Option>
+    <Answer Option_number="4"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Earth's seasons are caused by which of the following? </Question_Text>
+    <Option total_options="4">
+      <Option_1>The tilt of the earth's rotation relative to the ecliptic as earth revolves around the sun</Option_1>
+      <Option_2>The varying amount of sunspot activity</Option_2>
+      <Option_3>The earth's orbit around the sun as an exlipse rather than a circle</Option_3>
+      <Option_4>The rotation of during a 24-hour day</Option_4>
+    </Option>
+    <Answer Option_number="1"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Which of the following is most likely to cause a rise in the average temperature of earth's atmosphere in future?</Question_Text>
+    <Option total_options="4">
+      <Option_1>Atomic warfare</Option_1>
+      <Option_2>CO2 from fossil fuels</Option_2>
+      <Option_3>Dust clouds from valcanoes</Option_3>
+      <Option_4>Depletion of earth's ozone layer</Option_4>
+    </Option>
+    <Answer Option_number="2"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>The accumulation of stress along the boundaries of lithospheric plates results in which of the following? </Question_Text>
+    <Option total_options="4">
+      <Option_1>Earthquakes</Option_1>
+      <Option_2>Magnetic reversals</Option_2>
+      <Option_3>Hurricanses</Option_3>
+      <Option_4> Increased deposition of deep-sea sediments</Option_4>
+    </Option>
+    <Answer Option_number="1"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>Pollination by birds is called </Question_Text>
+    <Option total_options="4">
+      <Option_1>autogamy</Option_1>
+      <Option_2>ornithophily</Option_2>
+      <Option_3>entomophily</Option_3>
+      <Option_4>anemophily</Option_4>
+    </Option>
+    <Answer Option_number="2"> </Answer>
+  </Question>
+  <Question language="en" CategoryId="5">
+    <Question_Text>The fastest-running terrestrial animal is</Question_Text>
+    <Option total_options="4">
+      <Option_1>cheetah</Option_1>
+      <Option_2>lion</Option_2>
+      <Option_3>man</Option_3>
+      <Option_4>jaguar</Option_4>
+    </Option>
+    <Answer Option_number="1"> </Answer>
+  </Question>
+</Question_Database>

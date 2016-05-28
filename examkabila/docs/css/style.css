@@ -1,0 +1,190 @@
+.background-check
+{
+  background-color:#ecf0f1;
+  text-align:center;
+  border-radius:10px;
+    border:1px solid #7ADBF0;
+}
+ 
+ 
+.container-fluid1{
+  height:100%;
+  display:table;
+  width: 100%;
+  padding: 0;
+}
+.textalign
+{
+  text-align:center;
+}
+.textfield
+{
+
+
+  margin-bottom:8%;
+  
+}
+.loginbottom
+{
+  margin-top:13%;
+margin-bottom:6%; 
+ background: #7ADBF0;
+ color:#fff;
+}
+.loginbottom:hover
+{
+margin-top:13%;
+margin-bottom:6%; 
+  color:#fff;
+ background:  #7ADBE0;
+}
+ 
+.row-fluid {height: 100%; display:table-cell; vertical-align: middle;}
+.centering {
+ /* float:none;
+  margin:0 auto;*/
+}
+.loginheader
+{
+  background-color:#7ADBF0;
+  padding-top:3%;
+  padding-bottom:3%;
+  color:#FFF;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+  
+}
+
+#bank_notice_container_click
+{
+  left:-50px;
+  background-image: url("../images/examalert_icon_new.png");
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: 50px 100px;
+    color:#fff;
+    text-align:center;  
+
+}
+
+
+
+.background_form {
+  background: #ecf0f1;
+ border-radius: 5px;
+ margin-top:-110px;
+  padding-bottom:15px;
+}
+
+
+.container-fluid2{
+  height:100%;
+  display:table;
+  width: 100%;
+  padding: 0;
+}
+
+.input_size
+{
+   padding: 7px 5px;
+ 
+  width: 100%;
+ font-size: 18px;
+  
+  border-bottom-right-radius:5px;
+  border-top-right-radius:5px;
+  border:solid 1px #999999;
+  -webkit-transition: 0.3s linear;
+  -moz-transition: 0.3s linear;
+  -o-transition: 0.3s linear;
+  transition: 0.3s linear;
+  
+}
+.margin_row
+{
+  margin-top:30px;
+}
+.input_size:focus
+{
+   outline: none;
+   border:none;
+  box-shadow: 0 0 1px 1px #7ADBF0;
+}
+.padding
+{
+  padding:0px;
+}
+.submit_button
+{
+   background: #7ADBF0;
+  padding: 10px;
+  font-size: 20px;
+  display: block;
+  width: 100%;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+}
+.submit_button:hover
+{
+   background: #7ADBE0;
+}
+ input:required:invalid, input:focus:invalid {
+    background-image: url(Bank_Web/images/invalid.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+  }
+  input:required:valid {
+    background-image: url(Bank_Web/images/valid1.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+  }
+
+#facebook_container
+{
+  background-image: url("../images/fbshare.png");
+   background-repeat: no-repeat;
+    background-position:right;
+   background-size: 50px 100px;
+    color:#fff;
+   
+}
+
+
+
+.blink_me {
+    -webkit-animation-name: blinker;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+
+    -moz-animation-name: blinker;
+    -moz-animation-duration: 1s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: infinite;
+
+    animation-name: blinker;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@-moz-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@-webkit-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+

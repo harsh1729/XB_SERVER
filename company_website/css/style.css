@@ -1,0 +1,42 @@
+/* Custom Stylesheet */
+body, html {
+      margin: 0;
+      -webkit-font-smoothing: antialiased;
+      background:#fff;
+      text-align: center;
+      -webkit-transition: opacity 400ms;
+      -moz-transition: opacity 400ms;
+      transition: opacity 400ms;
+}
+
+
+html {
+min-height: 100%;
+    }
+
+
+
+/* ALL DEMO */
+ body {
+  width: 100%;
+  min-height: 100%;
+  position: absolute;
+}
+
+
+
+
+
+
+
+.bg {
+  position:absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+
+
+.ibg-bg {
+  position: absolute;
+}

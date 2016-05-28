@@ -1,0 +1,49 @@
+<?php
+include('../database_connection.php');
+echo "<html><head><meta charset='utf-8'></head></html>";
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'अाॅ','ऑ') where OptionText like '%अाॅ%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'अॅ','ॲ') where OptionText like '%अॅ%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'ाॅ','ॉ') where OptionText like '%ाॅ%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'एे','ऐ') where OptionText like '%एे%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'अाै','औ') where OptionText like '%अाै%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'अाे','ओ') where OptionText like '%अाे%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'अा','आ') where OptionText like '%अा%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'ाै','ौ') where OptionText like '%ाै%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'ाे','ो') where OptionText like '%ाे%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'एॅ','ऍ') where OptionText like '%एॅ%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+echo $selectQuery = "UPDATE options SET OptionText = REPLACE(OptionText,'ॅं','ँ') where OptionText like '%ॅं%' ";
+mysql_query($selectQuery);
+echo "<br>Number of rows affected:".$numRows = mysql_affected_rows()."<br><br>";
+
+
+?>

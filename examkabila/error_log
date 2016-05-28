@@ -1,0 +1,26 @@
+[22-Sep-2015 07:04:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/xercewwv/public_html/examkabila/application/controllers/Bankpo.php on line 8
+[22-Sep-2015 07:06:10 Etc/GMT] PHP Fatal error:  Call to undefined method Bankpo_model::seenexams() in /home/xercewwv/public_html/examkabila/application/controllers/Bankpo.php on line 220
+[22-Sep-2015 07:08:15 Etc/GMT] PHP Fatal error:  Call to undefined method Bankpo_model::seenexams() in /home/xercewwv/public_html/examkabila/application/controllers/Bankpo.php on line 220
+[29-Oct-2015 12:50:17 Etc/GMT] PHP Fatal error:  Call to undefined method Cart_model::cart_total_amount() in /home/xercewwv/public_html/examkabila/application/controllers/Cart.php on line 26
+[10-Dec-2015 06:10:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/xercewwv/public_html/examkabila/application/models/Bankpo_model.php on line 2483
+[10-Dec-2015 06:10:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/xercewwv/public_html/examkabila/application/models/Bankpo_model.php on line 2483
+[22-Jan-2016 06:50:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ')' in /home/xercewwv/public_html/examkabila/application/controllers/Blog.php on line 6
+[26-Feb-2016 08:11:42 Etc/GMT] PHP Fatal error:  Call to undefined method Bankpo_model::get_impotant_pdf() in /home/xercewwv/public_html/examkabila/application/controllers/Bankpo.php on line 22
+[26-Feb-2016 08:47:21 Etc/GMT] PHP Fatal error:  Call to undefined method Bankpo_model::get_impotant_pdf() in /home/xercewwv/public_html/examkabila/application/controllers/Bankpo.php on line 51
+[02-Mar-2016 10:04:01 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/xercewwv/public_html/examkabila/application/views/current_affaires-view.php on line 267
+[02-Mar-2016 10:04:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/xercewwv/public_html/examkabila/application/views/current_affaires-view.php on line 267
+[02-Mar-2016 10:04:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>' in /home/xercewwv/public_html/examkabila/application/views/current_affaires-view.php on line 267
+[02-Mar-2016 10:04:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>' in /home/xercewwv/public_html/examkabila/application/views/current_affaires-view.php on line 267
+[15-Mar-2016 07:47:19 Etc/GMT] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/xercewwv/public_html/examkabila/application/controllers/Bankpo.php on line 453
+[21-Mar-2016 10:23:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/xercewwv/public_html/examkabila/application/models/Bankpo_model.php on line 2081
+[21-Mar-2016 10:55:41 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/xercewwv/public_html/examkabila/application/models/Bankpo_model.php on line 96
+[26-Mar-2016 08:09:24 Etc/GMT] PHP Fatal error:  Call to undefined function phpheader() in /home/xercewwv/public_html/examkabila/application/views/current_affaires-view.php on line 403
+[26-Mar-2016 08:10:01 Etc/GMT] PHP Fatal error:  Call to undefined function phpheader() in /home/xercewwv/public_html/examkabila/application/views/current_affaires-view.php on line 403
+[26-Mar-2016 08:22:07 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/xercewwv/public_html/examkabila/application/views/current_affaires-view.php on line 408
+[06-Apr-2016 10:29:52 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/xercewwv/public_html/examkabila/application/models/Bankpo_model.php on line 2076
+[14-Apr-2016 11:22:31 Etc/GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/xercewwv/public_html/examkabila/application/views/errors/html/error_php.php on line 23
+[14-Apr-2016 11:23:09 Etc/GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/xercewwv/public_html/examkabila/system/core/Exceptions.php on line 269
+[14-Apr-2016 11:27:18 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/xercewwv/public_html/examkabila/application/views/Bankpo-view.php on line 523
+[14-Apr-2016 12:23:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '$index' (T_VARIABLE) in /home/xercewwv/public_html/examkabila/application/views/current_affaires-view.php on line 357
+[14-Apr-2016 12:26:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/xercewwv/public_html/examkabila/application/views/current_affaires-view.php on line 454
+[25-Apr-2016 07:53:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/xercewwv/public_html/examkabila/application/views/Bankpo-view.php on line 375
