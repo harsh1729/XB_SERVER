@@ -1,0 +1,842 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WCP Contact Form"
+msgstr ""
+
+#. Short description.
+msgid "The contact form plugin with dynamic fields, reCAPTCHA and other features that makes it easy to add custom contact form on your site in a few clicks"
+msgstr ""
+
+#. Screenshot description.
+msgid "Form Sample"
+msgstr ""
+
+#. Screenshot description.
+msgid "Form Sample :: Widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "Form Sample :: Custom Styles"
+msgstr ""
+
+#. Screenshot description.
+msgid "Form Shordcode with TinyMCS toolbar button"
+msgstr ""
+
+#. Screenshot description.
+msgid "Form Widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "Inbox"
+msgstr ""
+
+#. Screenshot description.
+msgid "Inbox :: Group Actions"
+msgstr ""
+
+#. Screenshot description.
+msgid "Inbox :: Detail"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Panel :: Settings :: Form Tab :: Default Configuration"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Panel :: Settings :: Form Tab :: Custom Configuration"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Panel :: Settings :: Style Tab"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Panel :: Settings :: Errors Tab"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Panel :: Settings :: Notifications"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Panel :: Settings :: reCAPTCHA"
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Ready-to-Use Fields Preset"
+msgstr ""
+
+#. Found in description header.
+msgid "Dynamic Form Fields"
+msgstr ""
+
+#. Found in description header.
+msgid "Form Styling"
+msgstr ""
+
+#. Found in description header.
+msgid "For Developers"
+msgstr ""
+
+#. Found in description header.
+msgid "Notes"
+msgstr ""
+
+#. Found in description list item.
+msgid "As shortcode via TinyMCE toolbar button;"
+msgstr ""
+
+#. Found in description list item.
+msgid "As widget to a page sidebar."
+msgstr ""
+
+#. Found in description list item.
+msgid "Ready-to-use fields preset after plugin instalation;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dynamic form fields with various parameters that can be reordered and deleted;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Inbox page for message list with read/unread statuses and single detailed page for each message;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Optional \"Thank You\" page that can be chosen from list of the existing pages;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Optional HTML5 validation and editable error messages for non-HTML5 validation;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Auto notifications for users and administrator with variables for notification letters;"
+msgstr ""
+
+#. Found in description list item.
+msgid "List of the messages can be exported to CSV format based on selected fields in the form settings;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Minimum required PHP version is <strong>5.3.0</strong>;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom styles for contact form;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Drag&amp;Drop re-order of the form fields for configurator;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Success notification message after the form submission for form without \"Thank You\" page. "
+msgstr ""
+
+#. Found in description list item.
+msgid "reCAPTCHA field support;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Visual indicator for the new messages at the admin toolbar."
+msgstr ""
+
+#. Found in description list item.
+msgid "Optional ability to enqueue scripts and styles only for the pages with contact form"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>NEW!</strong> \"Quick Reply\" button to the Inbox (message list) and form details page that allows to open standard mail client and send quick reply to sender."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>NEW!</strong> Option for reCAPTCHA translation that based on default WordPress language that defined in the admin panel"
+msgstr ""
+
+#. Found in description list item.
+msgid "Border: size, style and color or no-border;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Background color or no-background;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Text color inside fields;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Fields labels color;"
+msgstr ""
+
+#. Found in description list item.
+msgid "Button text and background colors."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Beware!</strong> If you DELETE any field from existed form configuration all received data for this field won't be available for existed messages without possibility to restore."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>NB!</strong> If you use more than one email field you need to define field that will be used for user notification: \"Contact Form\" &gt; \"Settings\" &gt; \"Notifications\" &gt; \"User Notifications\" &gt; \"User Email Field\". By default, will be used first email field. Also, for properly work of user notifications email field should be required."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>NB!</strong> If use own fielsd set rater than default preset, please define fields for email and user name that will be used for email notifications in the \"Contact Form\" &gt; \"Settings\" &gt; \"Notifications\" &gt; \"General Settings\"."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>NB!</strong> Form uses standard WordPress <a href=\"https://codex.wordpress.org/Function_Reference/wp_mail\">wp_mail()</a> function for messages submission. If you have issues with notification receiving, try to use some third-party plugin for mail settings."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>NB!</strong> \"Reset to default\" button on the Settings page reset all tabs to default values includes form fields"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Main feature of our contact form is ready-to-use set of the fields includes CAPTCHA, that you can immediately use after installation."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "All that you need it is install plugin, check form settings and add contact form in two ways:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "As additional options of the contact form, you can find dynamic fields with various types, custom form styles and notifications for administrator and users."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can find <a href=\"http://wpdemo.webcodin.com/stay-in-touch/\">live demo</a> and <a href=\"http://wpdemo.webcodin.com/wordpress-plugin-wcp-contact-form/documentation/getting-started/\">plugin documentation</a> on our site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you find issues or have any questions about the plugin, please feel free to ask questions in the <a href=\"http://wordpress.org/support/plugin/wcp-contact-form\">Support Tab</a>, directly via our <a href=\"http://wpdemo.webcodin.com/stay-in-touch/\">demo site</a> or use following email address support@webcodin.com."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Ready-to-use fields preset after plugin instalation includs following fields:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Dynamic form fields include following field types:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "and support following parameters:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Contact form fields can be styled with following options:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Developers have the possibility to customize the plugin by creating a duplicate templates and styles in the active theme folder."
+msgstr ""
+
+#. Found in description paragraph, installation paragraph.
+msgid "More information and documentation can be found in the section <a href=\"https://wordpress.org/plugins/wcp-contact-form/screenshots/\">screenshots</a>, <a href=\"https://wordpress.org/plugins/wcp-contact-form/faq/\">FAQ</a> and <a href=\"http://wpdemo.webcodin.com/wordpress-plugin-wcp-contact-form/documentation/getting-started/\">plugin documentation</a> on our site."
+msgstr ""
+
+#. Found in installation header.
+msgid "3 easy steps to start using of our contact form on a page"
+msgstr ""
+
+#. Found in installation header.
+msgid "3 easy steps to start using of our contact form at a sidebar"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download a copy of the plugin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unzip and Upload 'wcp-contact-form' to a sub directory in '/wp-content/plugins/'."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugins through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Check plugin \"Contact Form\" &gt; \"Settings\" page and customize form options for your purposes;"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Create new page or use existed;"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Add shortcode via TinyMCE toolbar button and save the page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to the \"Appearance\" &gt; \"Widgets\" sections;"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Add \"WCP Contact Form\" to necessary sidebar. "
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "... and that is all! You have a fully working contact form on your site page. New messages can be found in \"Contact Form\" &gt; \"Inbox\"."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "... and that is all! You have a fully working contact form at the sidebar on your site. New messages can be found in \"Contact Form\" &gt; \"Inbox\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "changed: Form entries excluded from search result"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "changed: Rules for enqueue of the reCaptcha JS"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "changed: Method of checking for minimum required PHP version on a server"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor changes for compatibility with WordPress 4.4"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed: Removed strip slashes from submited form fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Added ability to change color for \"Required\" marker via plugin settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed: Fixed issue with multiple form submit for some site configurations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Added ability to change background / text colors on hover for \"Submit\" button via plugin settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor changes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Check of the minimum required PHP version on a server"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Lock of the \"Submit\" button during form submission"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: \"Quick Reply\" button to the Inbox (message list) and form details page that allows to open standard mail client and send quick reply to sender."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Option for reCAPTCHA translation that based on default WordPress language that defined in the admin panel"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor changes in plugin core"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor bugfixing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Optional ability to enqueue scripts and styles only for the pages with contact form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "changed: Minor loading speed optimization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: New reCAPTCHA field for the form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Indicator for unread inbox messages in admin toolbar"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor styles changes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: LESS-based dynamic CSS for custom form styles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Drag&amp;Drop re-order for fields configurator"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Success notification message after the form submission for form without \"Thank You\" page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: Ability to change type of the fields in the default fields preset"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: New parameter \"Submit Success\" that allows to set submit success message for the form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "changed: Caption of the \"Errors\" tab changed to \"Messages\" value on the form settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed: Issue with duplicate email notifications"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: new parameter \"Button Position\" that allows to set submit button position"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: filter hook 'wcp_contact_form_get_fields_settings' for developer needs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: new notifications varable <strong>{$user_email}</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: setting for default \"User Name\" field for user notification variables"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: new friendly \"[wcp_contactform]\" shortcode that can used instead \"[scfp]\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "changed: now \"id\" parameter is not necessary for single shortcode on a page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: button in a TinyMCE editor that allows to add contact form in editor area by one click"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "changed: layout of the \"Settings\" page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: notes for a parameters on the \"Settings\" page tabs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added: possibility to form style customization "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "updated plugin documentation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "changed: \"Refresh\" button styling for CAPTCHA field "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "global changes of the plugin core and templates structure. <strong>Beware!</strong> You can have issues if you make some customization in the form templates manually by code!;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added possibility to dynamic setup of the form fields. Fields can be added, deleted and reordered;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added following field types: numeric, checkbox;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added export to CSV format;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added setting for default user notification email for forms with multiple email fields;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added additional error message for numeric field type;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Issue with fatal error when trying to activate plugin for PHP 5.3;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Issue for AJAX request with enabled Zlib-compression;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "global changes of the plugin core;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added form widget;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added optional CAPTCHA field and editable error message;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added ability to reset form options to default;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added variables for notification messages;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "general cleanup and optimization;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "initial release."
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I add a form to a page"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I add a form to a sidebar"
+msgstr ""
+
+#. Found in faq header.
+msgid "I can't find button in TinyMCE toolbar for shortcode adding"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I find received messages"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I to configure form fields"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I customize \"Send\" button text?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I use own \"Thank You\" page?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I enable HTML5 validation?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I style contact form"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I change validation error messages?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I change \"Submit Success\" message?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I change administrator notifications?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I change user notifications?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I set notifications variables for Email and User Name, if I use a custom set of the fields?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I export data to CSV"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I style the form content?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I change the form content?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>type</strong> - allows to choose field type from preset;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>name</strong> - allows to define field label for displaying; "
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>visibility</strong> - allows to enable/disable field visibility; "
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>required</strong> - allows to make field required;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>export to CSV</strong> - allows to add field to CSV export."
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Caption</strong> - option allows to change submit button text;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Select Page</strong> - option allows to set \"Thank You\" page from the list of existed pages    "
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Background Color</strong> - option allows to change background color of the \"Submit\" button"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Text Color</strong> - option allows to change text color of the \"Submit\" button; "
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Label Color</strong> - option allows to change color of field labels (labels are displayed above the form fields);"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Text Color</strong> - option allows to change field text color inside the form fields;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>No Border</strong> - option allows to disable border around the form fields;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Border Size</strong> - option allows to set size of the border around the form fields (positive digital value with \"px\");"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Border Style</strong> - option allows to set style of the border around the form fields;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Border Color</strong> - option allows to set color of the border around the form fields;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>No Background</strong> - option allows to disable background inside the form fields;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Background Color</strong> - option allows to set background color inside the form fields;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Submit Success</strong> - option allows to set error message for \"required\" fields;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Email Field</strong> - option allows to set error message for \"email \"fields;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Captcha Field</strong> - option allows to set error message for \"CAPTCHA\" field;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Number Field</strong> - option allows to set error message for \"number\" fields."
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Submit Success</strong> - option allows to set submit success message for the form."
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Send to Email</strong> - option allows to set administrator email address for notifications."
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Subject</strong> - option allows to set default subject of administrator notification message;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Message</strong> - option allows to set default text of administrator notification message; "
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Disable Admin Notifications</strong> - option allows to disable notifications of new form submissions. "
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Subject</strong> - option allows to set default subject of user notification message;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Message</strong> - option allows to set default text of user notification message."
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Disable User Notifications</strong> - option allows to disable notifications for successful form submission. "
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>User Email Field</strong> - option allows to set default field for user notification if you use more than one email field in the contact form;"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>User Name Field</strong> - option allows to set default field for {$user_name} variable in the contact form;"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To create a new page for the contact form, go to the menu \"Pages\" &gt; \"Add New\". \n"
+"After filling all needed fields, add contact form shordcode via TinyMCE toolbar button and save the page.\n"
+"As a result, ready-to-use form will appear on page with default configuration."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Also, the contact form can be added to an existing page. \n"
+"To do this, go to the menu \"Pages\" &gt; \"All Pages\". Open for editing the necessary page and add contact form shordcode via TinyMCE toolbar button and save the page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "More information can be found in the section <a href=\"https://wordpress.org/plugins/wcp-contact-form/screenshots/\">screenshots</a> and <a href=\"http://wpdemo.webcodin.com/wordpress-plugin-wcp-contact-form/documentation/getting-started/\">plugin documentation</a> on our site."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Go to the \"Appearance\" &gt; \"Widgets\" sections.\n"
+"Add \"WCP Contact Form\" to necessary sidebar, change sidebar title if you need and press \"Save\" button."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Form\" tab &gt; \"Other Settings\" section. Option \"TinyMCE Support\" should be enabled.\n"
+"If this option is enabled, but you doesn't TinyMCE toolbar button after the page refresh, please let us know about this issue in the <a href=\"http://wordpress.org/support/plugin/wcp-contact-form\">Support Tab</a> or directly via <a href=\"http://wpdemo.webcodin.com/stay-in-touch/\">our site</a>.\n"
+"Also, you can manually add following shordcode into the TinyMCE editor area: [wcp_contactform id=\"wcpform_1\"]."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To view the list of received messages go to the menu \"Contact Form\" &gt; \"Inbox\".\n"
+"New messages are marked automatically as Unread. There is also automatic filtering for Read and Unread messages.\n"
+"When you delete a message it goes to the \"Trash\". Deleted message is recoverable or can be completely removed.\n"
+"You can use Mark as Read, Mark as Unread, Move to Trash actions on each message or the group.\n"
+"Also on this page you able to export messages to CSV format by pressing on \"Export to CSV\" button.\n"
+"Click on the name of the letter to review the letter details."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To configure form fields go to the menu \"Contact Form\" &gt; \"Settings\" tab \"Form\".\n"
+"In the \"Fields Settings\" section will be available settings for the form fields.\n"
+"Form supports following field types: text, email, numeric, textarea, checkbox and CAPTCHA.\n"
+"Each field has following available parameters for configuration:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "When you configured all necessary fields, press the \"Save Changes\" button at the bottom of the page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To change Send button, go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Form\" tab &gt; \"Send Button\" section. \n"
+"Following options are available:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To choose own Thank You page, go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Form\" tab &gt; \"Thank You Page\" section. \n"
+"Following options are available:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To eneble HTML5 validation, go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Form\" tab &gt; \"Other Settings\" section and check \"Enable HTML5 Validation\" checkbox."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To style contact form, go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Style\" tab\n"
+"In this tab following options are avialable:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>Submit Button</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>Fields Style</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To change non-HTML5 validation error messages, go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Messages\" tab &gt; \"Error Messages\" section.\n"
+"Following options are available:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To change \"Submit Success\" message for forms without \"Thank You\" page, go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Messages\" tab &gt; \"Notification Messages\" section.\n"
+"Following option is available:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To change administrator notifications, go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Notifications\" tab &gt; \"Admin Notifications\" section.\n"
+"Following options are available:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To change user notifications, go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Notifications\" tab &gt; \"User Notifications\" section.\n"
+"Following options are available:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To change user notifications, go to menu \"Contact Form\" &gt; \"Settings\" &gt; \"Notifications\" tab &gt; \"General Settings\" section.\n"
+"If you use a custom set of the fields, you need to define manually following variables for properly work of the email notifications to users:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"To export the list of received messages go to the menu \"Contact Form\" &gt; \"Entries\".\n"
+"Press button \"Export to CSV\" at the top of the message list. All fiels that were defined as \"Export to CSV\" at the form settings (\"Contact Form\" &gt; \"Settings\" &gt; \"Form\" tab) will be exported to CSV format."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"The plugin includes CSS file \"assets/css/style.css\".\n"
+"You can copy this file in your active theme and customize it for your needs.\n"
+"Path to the styles inside the active theme:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "[ActiveTheme]/templates/wcp-contact-form/assets/css/style.css"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"The plugin includes some templates in \"templates/\" folder. \n"
+"You can copy any template in your active theme and customize it for your needs. \n"
+"Path to the templates folder inside the active theme:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "[ActiveTheme]/templates/wcp-contact-form/"
+msgstr ""
