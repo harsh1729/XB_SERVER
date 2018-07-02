@@ -1,0 +1,5 @@
+[03-Jul-2016 19:20:19 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/xercewwv/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[26-Nov-2017 08:01:25 Etc/GMT] PHP Fatal error:  Call to undefined function _e() in /home/xercextx/public_html/xercesblue.in/wp_xb/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[26-Nov-2017 08:12:39 Etc/GMT] PHP Fatal error:  Call to undefined function _e() in /home/xercextx/public_html/xercesblue.in/wp_xb/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[26-Nov-2017 08:12:41 Etc/GMT] PHP Fatal error:  Call to undefined function do_action() in /home/xercextx/public_html/xercesblue.in/wp_xb/wp-content/themes/twentyfifteen/footer.php on line 23
+[14-Feb-2018 10:10:36 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/xercextx/public_html/xercesblue.in/wp_xb/wp-content/themes/twentyfifteen/404.php on line 10
